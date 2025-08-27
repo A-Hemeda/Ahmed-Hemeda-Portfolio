@@ -24,13 +24,13 @@
   </div>
 </div>
 
----
+--------------------------------------------------
 
 ## 🚀 About Me
 
 I'm a Software Engineer .NET Developer focused on building scalable APIs and robust backends using C#, ASP.NET Core, and modern architectural patterns. I value clean code, performance, and secure, maintainable systems.
 
----
+--------------------------------------------------
 
 ## 🛠️ Technical Skills
 
@@ -52,7 +52,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 ### Soft Skills
 - **Teamwork** | **Research** | **Time Management** | **Communication Skills**
 
----
+--------------------------------------------------
 
 ## 💼 Work Experience
 
@@ -71,7 +71,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 **Algoriza** | Jun 2023 - Nov 2023
 - Built Weather, Booking, and Todo apps with mentorship and regular technical reviews
 
----
+--------------------------------------------------
 
 ## 🎓 Education
 
@@ -82,7 +82,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - ICPC Certificate
 - Technical Head at Huawei Student Club AOU
 
----
+--------------------------------------------------
 
 ## 🏅 Certificates
 
@@ -111,7 +111,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - **Skills**: Project Management
 - **[View Certificate](https://www.coursera.org/account/accomplishments/verify/EVA33U556NB3)**
 
----
+--------------------------------------------------
 
 ## 🚀 Featured Projects
 
@@ -139,7 +139,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 **Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design
 **[View Code](https://github.com/A-Hemeda/Restaurant)** | **[Live Demo](https://a-hemeda.github.io/Restaurant/)**
 
----
+--------------------------------------------------
 
 ## 📊 GitHub Stats
 
@@ -148,34 +148,24 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/> <!-- GitHub Streak -->
 </div>
 
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-  <a href="https://codeforces.com/profile/A-Hemeda" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
-  </a>
-</div>
-
----
+--------------------------------------------------
 
 ## 📫 Get In Touch
 
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
 
-<div align="center">
+<div align="left">
   <a href="mailto:7hemeda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://drive.google.com/drive/folders/1tyYtNmYt1xoUp-_Y-clrC7Rf1QxkyiEw?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
   </a>
 </div>
 
----
+--------------------------------------------------
 
-<div align="center">
+<div align="left">
   <p>Made with ❤️ by Ahmed Hemeda</p>
   <p>© 2025 Ahmed Hemeda. All rights reserved.</p>
 </div>
