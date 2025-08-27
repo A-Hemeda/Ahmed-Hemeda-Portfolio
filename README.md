@@ -151,8 +151,8 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Hemeda&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hemeda&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hemeda&theme=highcontrast" alt="GitHub Streak">
 </div>
 
 ---
