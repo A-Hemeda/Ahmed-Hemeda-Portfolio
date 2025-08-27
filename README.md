@@ -28,14 +28,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer and .NET Developer focused on building scalable APIs and robust backends using C#, ASP.NET Core, and modern architectural patterns. I value clean code, performance, and secure, maintainable systems.
-
-### 📍 Location
-Cairo, Egypt
-
-### 📧 Contact
-- **Email**: 7hemeda@gmail.com
-- **Phone**: +201119939598
+I'm a Software Engineer .NET Developer focused on building scalable APIs and robust backends using C#, ASP.NET Core, and modern architectural patterns. I value clean code, performance, and secure, maintainable systems.
 
 ---
 
