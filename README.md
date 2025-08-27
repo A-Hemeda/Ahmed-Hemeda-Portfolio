@@ -6,21 +6,21 @@
   
   <!-- Social Icons -->
   <div align="center">
-    <a href="https://www.linkedin.com/in/a-hemeda" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+    </a>&nbsp;
+    <a href="https://codeforces.com/profile/A-Hemeda"> <!-- Codeforces Profile -->
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
     </a>
-    <a href="https://www.github.com/A-Hemeda" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-172020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="https://www.facebook.com/11hemeda" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://codeforces.com/profile/A-Hemeda" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-AA0033?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-    </a>
+  </p>
   </div>
 </div>
 
