@@ -84,7 +84,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 
 ---
 
-## 🏆 Certificates
+## 🏅 Certificates
 
 ### Backend .NET Core Diploma
 **Route** | May 2025
@@ -143,9 +143,9 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hemeda&theme=highcontrast" alt="GitHub Streak">
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="150"/> &nbsp; <!-- GitHub Stats -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/> <!-- GitHub Streak -->
 </div>
 
 ---
