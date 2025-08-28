@@ -158,7 +158,7 @@ Feel free to reach out if you're looking for a developer, have a question, or ju
   <a href="mailto:7hemeda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://drive.google.com/drive/folders/1tyYtNmYt1xoUp-_Y-clrC7Rf1QxkyiEw?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
   </a>
 </div>
