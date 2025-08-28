@@ -141,12 +141,18 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 
 --------------------------------------------------
 
-## 📊 GitHub Stats
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+  
+  [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="150"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/> <!-- GitHub Streak -->
-</div>
+  <p align="left">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> <!-- GitHub Streak -->
+  </p>
+
 
 --------------------------------------------------
 
@@ -157,9 +163,6 @@ Feel free to reach out if you're looking for a developer, have a question, or ju
 <div align="left">
   <a href="mailto:7hemeda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
   </a>
 </div>
 
