@@ -150,6 +150,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
   [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 
+<h3 align="left">🔥 GitHub Streak:</h3>
   <p align="left">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp; <!-- Most Used Languages -->
