@@ -50,7 +50,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - **Git** | **GitHub** | **GitHub Actions** | **Docker** | **CI/CD**
 
 ### Frontend Technologies
-- **HTML5** | **CSS3** | **Bootstrap** | **JavaScript** | **Angular**
+- **HTML5** | **CSS3** | **Bootstrap** | **JavaScript** | **Angular Basics**
 
 ### Soft Skills
 - **Teamwork** | **Research** | **Time Management** | **Communication Skills**
