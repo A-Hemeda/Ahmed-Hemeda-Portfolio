@@ -4,17 +4,14 @@
   
   <p>Passionate developer with expertise in building scalable .NET applications, implementing modern architectural patterns, and delivering high-quality solutions through research-driven problem-solving and continuous learning.</p>
   
-  <!-- Social Icons -->
   <div align="center">
-<h3 align="left">📤 Connect with Me:</h3>
-  <p align="left">
-    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
-      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
-    </a>&nbsp;
+    <a href="mailto:7hemeda@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>
-  </p>
   </div>
 </div>
 
