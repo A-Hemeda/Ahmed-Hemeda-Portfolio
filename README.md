@@ -135,7 +135,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
   
-  [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
 
 <h3 align="left">🔥 GitHub Streak:</h3>
