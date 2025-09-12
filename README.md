@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="left">  
   <h1>Ahmed Hemeda</h1>
   <h2>Software Engineer | .NET Developer | Full Stack</h2>
   
