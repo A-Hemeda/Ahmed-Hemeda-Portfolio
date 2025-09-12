@@ -16,13 +16,13 @@
     </a>
   </p>
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 🚀 About Me
 
 I'm a Software Engineer .NET Developer focused on building scalable APIs and robust backends using C#, ASP.NET Core, and modern architectural patterns. I value clean code, performance, and secure, maintainable systems.
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 🛠️ Technical Skills
 
@@ -44,7 +44,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 ### Soft Skills
 - **Teamwork** | **Research** | **Time Management** | **Communication Skills**
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 💼 Work Experience
 
@@ -63,7 +63,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 **Algoriza** | Jun 2023 - Nov 2023
 - Built Weather, Booking, and Todo apps with mentorship and regular technical reviews
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 🎓 Education
 
@@ -74,7 +74,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - ICPC Certificate
 - Technical Head at Huawei Student Club AOU
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 🏅 Certificates
 
@@ -103,7 +103,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - **Skills**: Project Management
 - **[View Certificate](https://www.coursera.org/account/accomplishments/verify/EVA33U556NB3)**
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 🚀 Featured Projects
 
@@ -131,7 +131,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 **Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design
 **[View Code](https://github.com/A-Hemeda/Restaurant)** | **[Live Demo](https://a-hemeda.github.io/Restaurant/)**
 
---------------------------------------------------
+--------------------------------------------------------
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
@@ -147,7 +147,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
   </p>
 
 
---------------------------------------------------
+--------------------------------------------------------
 
 ## 📫 Get In Touch
 
@@ -159,7 +159,7 @@ Feel free to reach out if you're looking for a developer, have a question, or ju
   </a>
 </div>
 
---------------------------------------------------
+--------------------------------------------------------
 
 <div align="left">
   <p>Made with ❤️ by Ahmed Hemeda</p>
