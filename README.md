@@ -158,10 +158,3 @@ Feel free to reach out if you're looking for a developer, have a question, or ju
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
---------------------------------------------------------
-
-<div align="left">
-  <p>Made with ❤️ by Ahmed Hemeda</p>
-  <p>© 2025 Ahmed Hemeda. All rights reserved.</p>
-</div>
