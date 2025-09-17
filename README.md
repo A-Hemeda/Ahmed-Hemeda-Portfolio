@@ -4,14 +4,16 @@
   
   <p>Passionate developer with expertise in building scalable .NET applications, implementing modern architectural patterns, and delivering high-quality solutions through research-driven problem-solving and continuous learning.</p>
 </div>
+<br>
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
+<br>
 
-  <p align="left">
-    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="47"/>
-    </a>
-  </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="47"/>
+  </a>
+</p>
 
 ### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
 
