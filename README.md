@@ -1,6 +1,6 @@
 <div align="left">  
   <h1>Ahmed Hemeda</h1>
-  <h2>Software Engineer | .NET Developer | Full Stack</h2>
+  <h2>Software Engineer | .NET Developer</h2>
   
   <p>Passionate developer with expertise in building scalable .NET applications, implementing modern architectural patterns, and delivering high-quality solutions through research-driven problem-solving and continuous learning.</p>
 </div>
