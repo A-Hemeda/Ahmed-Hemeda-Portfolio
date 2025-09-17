@@ -5,13 +5,13 @@
   <p>Passionate developer with expertise in building scalable .NET applications, implementing modern architectural patterns, and delivering high-quality solutions through research-driven problem-solving and continuous learning.</p>
 </div>
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 🚀 About Me
 
 I'm a Software Engineer .NET Developer focused on building scalable APIs and robust backends using C#, ASP.NET Core, and modern architectural patterns. I value clean code, performance, and secure, maintainable systems.
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Technical Skills
 
@@ -33,7 +33,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 ### Soft Skills
 - **Teamwork** | **Research** | **Time Management** | **Communication Skills**
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 💼 Work Experience
 
@@ -52,7 +52,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 **Algoriza** | Jun 2023 - Nov 2023
 - Built Weather, Booking, and Todo apps with mentorship and regular technical reviews
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education
 
@@ -63,7 +63,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - ICPC Certificate
 - Technical Head at Huawei Student Club AOU
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 🏅 Certificates
 
@@ -92,7 +92,7 @@ I'm a Software Engineer .NET Developer focused on building scalable APIs and rob
 - **Skills**: Project Management
 - **[View Certificate](https://www.coursera.org/account/accomplishments/verify/EVA33U556NB3)**
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
@@ -120,10 +120,9 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 **Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design
 **[View Code](https://github.com/A-Hemeda/Restaurant)** | **[Live Demo](https://a-hemeda.github.io/Restaurant/)**
 
+----------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------
-
-## 📫 Get In Touch
+## 📫 Contact
 
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
 
