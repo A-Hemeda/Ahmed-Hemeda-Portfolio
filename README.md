@@ -4,18 +4,6 @@
   
   <p>Passionate developer with expertise in building scalable .NET applications, implementing modern architectural patterns, and delivering high-quality solutions through research-driven problem-solving and continuous learning.</p>
 </div>
-<br>
-
-## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
-<br>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="47"/>
-  </a>
-</p>
-
-### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
 
 --------------------------------------------------------
 
@@ -131,21 +119,6 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 
 **Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design
 **[View Code](https://github.com/A-Hemeda/Restaurant)** | **[Live Demo](https://a-hemeda.github.io/Restaurant/)**
-
---------------------------------------------------------
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
-  
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-  </div>
-
-<h3 align="left">🔥 GitHub Streak:</h3>
-  <p align="left">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> <!-- Most Used Languages -->
-  </p>
 
 
 --------------------------------------------------------
