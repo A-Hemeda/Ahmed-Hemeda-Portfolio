@@ -124,7 +124,7 @@ Built a responsive restaurant website using HTML, CSS, and JavaScript. Designed 
 
 ## 📫 Contact
 
-Feel free to reach me if you're looking for a developer, have a question, or just want to connect!
+Feel free to reach me if you're looking for a developer, have a question, or want to connect!
 
 <div align="left">
   <a href="mailto:7hemeda@gmail.com">
